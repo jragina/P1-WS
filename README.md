@@ -1,4 +1,5 @@
 # P1-WS
+created from: https://o7planning.org/en/10605/create-a-java-shopping-cart-web-application-using-spring-mvc-and-hibernate#a2564007
 MYSQL download available at: https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.17.0.msi
 
 When setting up the MYSQL use the following creds:
